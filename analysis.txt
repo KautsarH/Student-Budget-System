@@ -1,0 +1,66 @@
+  =====================================
+  ||       BUGDGET ANALYSIS           || 
+  =====================================
+
+  -->Total expenses Per Day
+  1 Monday     : RM 0
+  2 Tuesday    : RM 0
+  3 Wednesday  : RM 0
+  4 Thursday   : RM 0
+  5 Friday     : RM 0
+  6 Saturday   : RM 0
+  7 Sunday     : RM 0
+
+  -->Total expenses Per Category
+  1. Food           : RM 0
+  2. Groceries      : RM 0
+  3. Transportation : RM 0
+  4. Social         : RM 0
+  5. Education      : RM 0
+  6. Donation       : RM 0
+  7. Clothing       : RM 0
+  8. Others         : RM 0
+
+  MAX DAY      : , RM 0
+  MIN DAY      : , RM 1e+009
+  MAX CATEGORY : , RM 0
+  MIN CATEGORY : Food, RM 0
+  AVERAGE PER DAY      : RM 0
+  AVERAGE PER CATEGORY : RM 0
+  TOTAL                : RM 0
+
+
+  -->Ranking of days of most spent :
+  Monday     : RM 0
+  Tuesday    : RM 0
+  Wednesday  : RM 0
+  Thursday   : RM 0
+  Friday     : RM 0
+  Saturday   : RM 0
+  Sunday     : RM 0
+
+  -->Ranking of category of most spent:
+  Food           : RM 0
+  Groceries      : RM 0
+  Transportation : RM 0
+  Social         : RM 0
+  Education      : RM 0
+  Donation       : RM 0
+  Clothing       : RM 0
+  Others         : RM 0
+
+  -->Remaining budget Per Category
+  1. Food           : RM 50
+  2. Groceries      : RM 15
+  3. Transportation : RM 10
+  4. Social         : RM 15
+  5. Education      : RM 10
+  6. Donation       : RM 10
+  7. Clothing       : RM 5
+  8. Others         : RM 10
+
+  You have been over budget in 0 categories
+  AMOUNT OVER BUDGET : RM -0
+  Be careful on spending your money. 
+
+______________________________________________________
